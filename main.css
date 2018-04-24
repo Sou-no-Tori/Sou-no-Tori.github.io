@@ -1,0 +1,11 @@
+.indented { padding-left: 50pt; padding-right: 50pt; } 
+.slight-indented { padding-left: 10pt; padding-right: 10pt; } 
+
+body{ background-color:#FFFFFF; color:#000000;}
+
+.odd-row {background-color:#ECEDED;}
+.even-row {background-color:#CFD1D2;}
+.centered {
+  text-align: center;
+  vertical-align: middle;
+}
